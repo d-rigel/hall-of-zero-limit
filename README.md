@@ -5,7 +5,7 @@ A cinematic, immersive web experience recreating the "Hall of Zero Limits" from 
 
 ## 🚀 Live Demo
 
-**Production:** [https://your-project.vercel.app](https://your-project.vercel.app)
+**Production:** [https://hall-of-zero-limit-i5iznpmlm-rigel4ggmailcoms-projects.vercel.app/landing](https://hall-of-zero-limit-i5iznpmlm-rigel4ggmailcoms-projects.vercel.app/landing)
 
 ## ✨ Features
 
@@ -46,7 +46,7 @@ A cinematic, immersive web experience recreating the "Hall of Zero Limits" from 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/wakanda-hall-zero-limits.git
+git clone https://github.com/d-rigel/hall-of-zero-limit.git
 
 # Navigate to project directory
 cd wakanda-hall-zero-limits
